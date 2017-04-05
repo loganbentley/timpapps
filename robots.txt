@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://loganbentley.github.io//sitemap.xml
+Sitemap: https://loganbentley.github.io/timpapps//sitemap.xml
